@@ -26,7 +26,7 @@ const HomePage = () => {
         setImageurl(data.url);
       }}>
         <input type="file" onChange={(e) => { setFile(e.target.files[0]) }} />
-        <button>
+        <button className="bg-green-500">
           Enviar
         </button>
       </form>
