@@ -37,3 +37,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 Link tutorial: https://www.youtube.com/watch?v=_Xkdn1QpPG0
+
+NOTE: To run change the example.env file to .env and add your credentials
